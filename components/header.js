@@ -18,7 +18,7 @@ const Header = () => (
               </button>
             </div>
             <Link href="/">
-              <a  className="navbar-brand" >quiero</a>
+              <a  className="navbar-brand" >quieros</a>
               </Link>
           </div>
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-expanded="false" aria-label="Toggle navigation">
